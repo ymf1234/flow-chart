@@ -1,36 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2020-09-01T03:49:42.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="RnQx2k46GVuY3G5zZKti" version="13.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-01T05:57:40.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="14mhsRQEEO043JwwqVQf" version="13.6.6" type="github">
   <diagram id="75NIJwF_BA_lbmNGSpQ4" name="Page-1">
-    <mxGraphModel dx="1134" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1134" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NSHEd8fm6fHOk80F3MLL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NSHEd8fm6fHOk80F3MLL-1" target="NSHEd8fm6fHOk80F3MLL-2">
+        <mxCell id="NSHEd8fm6fHOk80F3MLL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="NSHEd8fm6fHOk80F3MLL-1" target="NSHEd8fm6fHOk80F3MLL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NSHEd8fm6fHOk80F3MLL-1" value="开始" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+        <mxCell id="NSHEd8fm6fHOk80F3MLL-1" value="开始" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="374" y="40" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NSHEd8fm6fHOk80F3MLL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NSHEd8fm6fHOk80F3MLL-2" target="NSHEd8fm6fHOk80F3MLL-10">
+        <mxCell id="NSHEd8fm6fHOk80F3MLL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="NSHEd8fm6fHOk80F3MLL-2" target="NSHEd8fm6fHOk80F3MLL-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NSHEd8fm6fHOk80F3MLL-12" value="系统进行检查和卡控" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NSHEd8fm6fHOk80F3MLL-11">
+        <mxCell id="NSHEd8fm6fHOk80F3MLL-12" value="系统进行检查和卡控" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#F1FAEE;fontColor=#1D3557;" vertex="1" connectable="0" parent="NSHEd8fm6fHOk80F3MLL-11">
           <mxGeometry x="-0.152" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NSHEd8fm6fHOk80F3MLL-2" value="人工导入ABC分类" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" vertex="1" parent="1">
+        <mxCell id="NSHEd8fm6fHOk80F3MLL-2" value="人工导入ABC分类" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="357" y="135" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="NSHEd8fm6fHOk80F3MLL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NSHEd8fm6fHOk80F3MLL-3" target="NSHEd8fm6fHOk80F3MLL-2">
+        <mxCell id="NSHEd8fm6fHOk80F3MLL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#F1FAEE;strokeColor=#457B9D;fontColor=#1D3557;" edge="1" parent="1" source="NSHEd8fm6fHOk80F3MLL-3" target="NSHEd8fm6fHOk80F3MLL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NSHEd8fm6fHOk80F3MLL-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+        <mxCell id="NSHEd8fm6fHOk80F3MLL-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="260" y="120" width="20" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="NSHEd8fm6fHOk80F3MLL-8" value="人工通过Excel文件导入&lt;br&gt;表头：&amp;nbsp; &amp;nbsp; product_group&lt;span&gt;	&lt;br&gt;&lt;/span&gt;&amp;nbsp;brand&lt;span&gt;	&lt;br&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;plan_category&lt;span&gt;	&lt;br&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; abc_classify" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="NSHEd8fm6fHOk80F3MLL-8" value="人工通过Excel文件导入&lt;br&gt;表头：&amp;nbsp; &amp;nbsp; product_group&lt;span&gt;	&lt;br&gt;&lt;/span&gt;&amp;nbsp;brand&lt;span&gt;	&lt;br&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;plan_category&lt;span&gt;	&lt;br&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; abc_classify" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="80" y="130" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NSHEd8fm6fHOk80F3MLL-10" value="结束" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
+        <mxCell id="NSHEd8fm6fHOk80F3MLL-10" value="结束" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="374" y="330" width="106" height="40" as="geometry" />
         </mxCell>
       </root>
