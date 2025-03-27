@@ -300,10 +300,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p15EBxIEyjeOaIERYFU2-77" value="流式/JSON响应" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0;entryX=0;entryY=0.78;rounded=0;" edge="1" parent="1" source="p15EBxIEyjeOaIERYFU2-67" target="p15EBxIEyjeOaIERYFU2-66">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1094" y="-17" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="279" y="1775" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p15EBxIEyjeOaIERYFU2-78" value="向量数据" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="p15EBxIEyjeOaIERYFU2-68" target="p15EBxIEyjeOaIERYFU2-69">
